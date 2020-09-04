@@ -1,15 +1,15 @@
 {
     "format_version": 2,
     "header": {
-        "description": "Ju gen",
-        "name": "Enely",
+        "description": "Templace ADDON pour minecraft",
+        "name": "TEMPLATE ADDON",
         "uuid": "d70fe53a-9950-4ce0-81c9-730a3fc63668",
         "version": [ 0, 0, 1],
         "min_engine_version": [1, 13, 0]
     },
     "modules": [
         {
-            "description": "Ju gen",
+            "description": "Templace ADDON pour minecraft",
             "type": "resources",
             "uuid": "889ced8a-3c4e-4435-8803-23aa873f2730",
             "version": [0, 0, 1]
