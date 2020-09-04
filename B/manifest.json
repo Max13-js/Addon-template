@@ -1,0 +1,24 @@
+{
+    "format_version": 1,
+    "header": {
+        "name": "Enely",
+        "uuid": "8458e185-cfd2-4d33-b6b6-9d3e56a54dba",
+        "version": [ 0, 0, 1],
+        "description": "Ju gen",
+        "min_engine_version": [ 1, 2, 6]
+    },
+    "modules": [
+        {
+            "type": "data",
+            "uuid": "9c1e0db4-0918-421b-b2b7-aa06be7811a3",
+            "version": [ 0, 0, 1],
+            "description": "Ju gen"
+        }
+    ],
+    "dependencies": [
+        {
+            "uuid": "d70fe53a-9950-4ce0-81c9-730a3fc63668",
+            "version": [0, 0, 1]
+        }
+    ]
+}

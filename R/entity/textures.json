@@ -1,0 +1,21 @@
+{
+  "format_version": "1.8.0",
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "ju:textures",
+      "materials": { "default": "spider" },
+      "textures": {
+        "default": "textures/entity/textures"
+      },
+      "geometry": {
+        "default": "geometry.textures"
+      },
+
+      "render_controllers": [ "controller.render.iron_golem" ],
+      "spawn_egg": {
+        "base_color": "#0099ff",
+        "overlay_color": "#0099ff"
+      }
+    }
+  }
+}
