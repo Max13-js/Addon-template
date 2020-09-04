@@ -2,7 +2,7 @@
   "format_version": "1.8.0",
   "minecraft:client_entity": {
     "description": {
-      "identifier": "ju:textures",
+      "identifier": "ju:test",
       "materials": { "default": "spider" },
       "textures": {
         "default": "textures/entity/textures"
