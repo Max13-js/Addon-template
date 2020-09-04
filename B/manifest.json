@@ -1,10 +1,10 @@
 {
     "format_version": 1,
     "header": {
-        "name": "Enely",
+        "name": "Templace ADDON pour minecraft",
         "uuid": "8458e185-cfd2-4d33-b6b6-9d3e56a54dba",
         "version": [ 0, 0, 1],
-        "description": "Ju gen",
+        "description": "Templace ADDON pour minecraft",
         "min_engine_version": [ 1, 2, 6]
     },
     "modules": [
